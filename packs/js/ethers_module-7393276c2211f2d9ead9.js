@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[9319],{5105:function(n,e,u){var p=u(4742);window.ethers=p}},function(n){n.O(0,[4742],(function(){return e=5105,n(n.s=e);var e}));n.O()}]);
+//# sourceMappingURL=ethers_module-7393276c2211f2d9ead9.js.map
